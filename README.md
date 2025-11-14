@@ -32,6 +32,14 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 - ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh8870&layout=compact&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&text_color=C9D1D9&langs_count=8)
 
+## 📅 Contribution Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh8870&theme=redical&bg_color=0D1117&color=E4405F&line=E4405F&point=FF6B35&area=true&hide_border=false&border_color=E4405F&radius=15)
+
+## 🏆 GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=rishabh8870&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=4&border_color=E4405F)
+
+
+
 - **[Shakti](https://github.com/rishabh8870/Shakti)** - TypeScript-based web application
 - **[Resume-By-Html-only](https://github.com/rishabh8870/Resume-By-Html-only)** - Responsive HTML resume template
 
