@@ -50,3 +50,8 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 ---
 
 ⭐️ From [rishabh8870](https://github.com/rishabh8870)
+
+## 🎯 Current Focus
+- Exploring JavaScript open-source contributions
+- Building modern web applications with cutting-edge technologies
+- Continuously improving my development skills and best practices
