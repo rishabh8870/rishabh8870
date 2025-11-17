@@ -1,5 +1,10 @@
 # Hi there, I'm Rishabh! 👋
 
+## 🔥 Currently
+🟢 **Open to Full-Stack Web Developer Opportunities**
+
+I'm actively seeking roles where I can contribute to innovative web applications and grow as a developer. Feel free to reach out!
+
 ## 🚀 About Me
 I'm a passionate **Full-Stack Web Developer** focused on building modern web applications with clean code and great user experiences. Currently learning and growing my skills in JavaScript, TypeScript, and Node.js.
 
@@ -30,7 +35,8 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 - **[DRIVE](https://github.com/rishabh8870/DRIVE)** - Full-stack file storage application with Node.js and EJS
 
 - ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh8870&layout=compact&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&text_color=C9D1D9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?
+- **[MentorMate](https://github.com/rishabh8870/mentormate-platform)** - AI-powered academic companion with study assistance and career planningusername=rishabh8870&layout=compact&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&text_color=C9D1D9&langs_count=8)
 
 ## 📅 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh8870&theme=redical&bg_color=0D1117&color=E4405F&line=E4405F&point=FF6B35&area=true&hide_border=false&border_color=E4405F&radius=15)
@@ -50,6 +56,10 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 ---
 
 ⭐️ From [rishabh8870](https://github.com/rishabh8870)
+
+- LinkedIn: [rishabh8870](https://linkedin.com/in/rishabh8870)
+- Twitter: [@rishabh8870](https://twitter.com/rishabh8870)
+- Email: rishabhtripathi8870@gmail.com
 
 ## 🎯 Current Focus
 - Exploring JavaScript open-source contributions
