@@ -28,10 +28,8 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 - Open Source Contribution
 
 ## 📊 GitHub Stats
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh8870&show_icons=true&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&icon_color=58A6FF&text_color=C9D1D9)
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabh8870&theme=radical&border_radius=15&border=E4405F&background=0D1117&ring=E4405F&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF)
-## 💼 Featured Projects
+![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh8870&show_icons=true&theme=radical)## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabh8870&theme=radical)## 💼 Featured Projects
 - **[DRIVE](https://github.com/rishabh8870/DRIVE)** - Full-stack file storage application with Node.js and EJS
 
 - ## 💻 Most Used Languages
