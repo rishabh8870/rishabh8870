@@ -35,8 +35,7 @@ I'm a passionate **Full-Stack Web Developer** focused on building modern web app
 - **[DRIVE](https://github.com/rishabh8870/DRIVE)** - Full-stack file storage application with Node.js and EJS
 
 - ## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?
-- **[MentorMate](https://github.com/rishabh8870/mentormate-platform)** - AI-powered academic companion with study assistance and career planningusername=rishabh8870&layout=compact&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&text_color=C9D1D9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top_langs/?username=rishabh8870&layout=compact&theme=radical)- **[MentorMate](https://github.com/rishabh8870/mentormate-platform)** - AI-powered academic companion with study assistance and career planningusername=rishabh8870&layout=compact&theme=radical&border_radius=15&border_color=E4405F&hide_border=false&bg_color=0D1117&title_color=E4405F&text_color=C9D1D9&langs_count=8)
 
 ## 📅 Contribution Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh8870&theme=redical&bg_color=0D1117&color=E4405F&line=E4405F&point=FF6B35&area=true&hide_border=false&border_color=E4405F&radius=15)
